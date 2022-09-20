@@ -4,7 +4,7 @@
  * Plugin Name: Breakdance Blocks
  * Plugin URI: https://github.com/mzolkiewicz/breakdance-blocks
  * Description: Tool for developing blocks for Breakdance plugin. It's also a set of prebuiled block for commercial use. 
- * Author: Breakdance
+ * Author: Proformat
  * Author URI: https://proformat.pl/
  * License: GPLv2
  * Text Domain: breakdance
